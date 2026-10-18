@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix APP - TOÁN - VŨ HÀ: RA ĐỀ KIỂM TRA TOÁN 3 ",
+  "description": "Hệ thống ôn luyện chuyên đề Làm tròn số và Hình học lớp 3 dành cho giáo viên và học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
